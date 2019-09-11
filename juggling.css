@@ -2,10 +2,27 @@ ul
 {
   font-size: 14px;
   color: #c90016;
+  font-family: sans-serif;
 }
 
 ol
 {
   font-size: 18px;
   color: #c90016;
+  font-family: sans-serif;
+}
+
+h1
+{
+  font-family: sans-serif;
+  text-decoration: underline;
+  font-variant-caps: all-small-caps;
+}
+
+#title {
+  background-color: yellow;
+}
+
+.list {
+  background-color: green;
 }
