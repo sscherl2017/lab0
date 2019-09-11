@@ -9,4 +9,6 @@ second.html contains a list of the top 10 jugglers in the world and links to the
 
 third.html contains a list of common things that people juggle with and different instructional videos to learn how to juggle.
 
+juggling.css contains the CSS styling for the different pages
+
 Thanks!
